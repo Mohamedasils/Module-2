@@ -10,8 +10,8 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program
 ```
-Developed by: Preethika N
-REG NO : 212223040130
+Developed by: mohamed asil
+REG NO : 212223040112
 ```
 ```
 a=int(input()) 
